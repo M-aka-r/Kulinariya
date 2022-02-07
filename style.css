@@ -16,9 +16,9 @@ nav{
 }
 nav a{
   text-decoration: none;
-  padding:6px;
+  padding:3px;
   color: black;
-  font-size:22px; 
+  font-size:15px; 
 }
 h2{
   background-color: cyan;
@@ -33,3 +33,4 @@ h2{
 ol{
   font-size: 20px;
 }
+
